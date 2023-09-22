@@ -9,5 +9,6 @@ public class latian {
         System.out.println("Pelajar :MAN 2 Banyuwangi") ;
         System.out.println("Status  :Jomblo Fi Sabilillah") ;
         System.out.println("Hobi    :Membaca, Menulis, dan Mengaji") ;
+        //tes
     }
 }
